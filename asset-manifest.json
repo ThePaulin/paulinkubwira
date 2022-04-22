@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/ThePaulin/paulinkubwira.git/static/css/main.8fc2c488.css",
+    "main.js": "/ThePaulin/paulinkubwira.git/static/js/main.7a2dd3b6.js",
+    "static/media/about01.png": "/ThePaulin/paulinkubwira.git/static/media/about01.25d9c568f488d6a2f861.png",
+    "static/media/about04.png": "/ThePaulin/paulinkubwira.git/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/about02.png": "/ThePaulin/paulinkubwira.git/static/media/about02.7a3df03410ee756268ec.png",
+    "static/media/bgIMG.png": "/ThePaulin/paulinkubwira.git/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/ThePaulin/paulinkubwira.git/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/profile.png": "/ThePaulin/paulinkubwira.git/static/media/profile.4b2bbc9a463700b9bf98.png",
+    "static/media/spotify.png": "/ThePaulin/paulinkubwira.git/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
+    "static/media/about03.png": "/ThePaulin/paulinkubwira.git/static/media/about03.a2e7550097625e5b3445.png",
+    "static/media/nb.png": "/ThePaulin/paulinkubwira.git/static/media/nb.98f3253e32cc67a4cb5e.png",
+    "static/media/asus.png": "/ThePaulin/paulinkubwira.git/static/media/asus.514bc34955008a92e09f.png",
+    "static/media/adidas.png": "/ThePaulin/paulinkubwira.git/static/media/adidas.83df8153294f9137d308.png",
+    "static/media/react_circle.png": "/ThePaulin/paulinkubwira.git/static/media/react_circle.af2cc6df235222d0a933.png",
+    "static/media/bolt.png": "/ThePaulin/paulinkubwira.git/static/media/bolt.64e7d9d30ece478ef3a0.png",
+    "static/media/redux.png": "/ThePaulin/paulinkubwira.git/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/ThePaulin/paulinkubwira.git/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/ThePaulin/paulinkubwira.git/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/cpp.png": "/ThePaulin/paulinkubwira.git/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/graphql.png": "/ThePaulin/paulinkubwira.git/static/media/graphql.0372057049181c5de51a.png",
+    "static/media/amazon.png": "/ThePaulin/paulinkubwira.git/static/media/amazon.0a8be1f53138b5c52456.png",
+    "static/media/mobile.png": "/ThePaulin/paulinkubwira.git/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/ThePaulin/paulinkubwira.git/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/figma.png": "/ThePaulin/paulinkubwira.git/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/css.png": "/ThePaulin/paulinkubwira.git/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/ThePaulin/paulinkubwira.git/static/media/git.a54d3fa44e02f2f61e69.png",
+    "static/media/skype.png": "/ThePaulin/paulinkubwira.git/static/media/skype.c8d7ee175da5b4c8a8ab.png",
+    "index.html": "/ThePaulin/paulinkubwira.git/index.html",
+    "static/media/circle.svg": "/ThePaulin/paulinkubwira.git/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.8fc2c488.css.map": "/ThePaulin/paulinkubwira.git/static/css/main.8fc2c488.css.map",
+    "main.7a2dd3b6.js.map": "/ThePaulin/paulinkubwira.git/static/js/main.7a2dd3b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fc2c488.css",
+    "static/js/main.7a2dd3b6.js"
+  ]
+}
